@@ -1,4 +1,4 @@
-#Intraday Trading Suggestions
+###Intraday Trading Suggestions
 
 Oscillator is one of the technical indicators which help in predicting calls for stocks.
 
