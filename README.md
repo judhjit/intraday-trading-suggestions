@@ -33,7 +33,10 @@ In the list of top 10, if we spot any stock in the oversold or over bought range
 
 vwap_indicator_from_moneycontrol.py
 
-We can use the moneycontrol link for any specific stock to check if the stock_price is above or below the VWAP. 
+The Volume Weighted Average Price (VWAP) is a real time indicator of the actual average price, it incorporate the volume into the average.
 
-If the stock is below the VWAP, it is bearish, and if above, it is bullish. 
+If the stock is below the VWAP, we could consider the pattern to be bearish, and if above, bullish. 
+
+We can use the moneycontrol page link for any specific stock to check if the stock_price is above or below the VWAP. 
+
 
